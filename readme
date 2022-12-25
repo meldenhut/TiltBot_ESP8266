@@ -1,6 +1,7 @@
 ******Known Issues*********************************
 You cannot use the add .zip library when downloading this library: https://github.com/jacob1421/Twitch-IRC-API/tree/master/Twitch_IRC_API
 You must add the Twitch_IRC_API folder to your arduino/libraries folder
+(MEL) These files have been added to this fork
 
 If you have issue completeing this step, and the files within Twitch_IRC_API to your local file folder, and make the includes local, for example:
 
